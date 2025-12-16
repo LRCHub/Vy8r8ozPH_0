@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Dear Mama",
+  "base_artist": "Red Eye",
+  "createdAt": "2025-12-16T06:01:01.407069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/01_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/02_Dear_Mama_2Pac.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/03_Dear_Mama_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dear Mama Remix",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/04_Dear_Mama_Remix_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dear Mama (Remix)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/05_Dear_Mama_(Remix)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "0832 - 2Pac - Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/06_0832_-_2Pac_-_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/07_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Mama (1995)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/08_Dear_Mama_(1995)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/09_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dear Mama (Xtra clean version)",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/10_Dear_Mama_(Xtra_clean_version)_2Pac.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear Mama (Big Mama mix)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/11_Dear_Mama_(Big_Mama_mix)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dear Mama (LP Version)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_Dear_Mama_(LP_Version)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dear Mama (Remix)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/13_Dear_Mama_(Remix)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dear Mama - Remix",
+      "artist": "2Pac feat. Anthony Hamilton",
+      "has_synced": true,
+      "path": "select/14_Dear_Mama_-_Remix_2Pac_feat._Anthony_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dear Mama (Remix) (feat. Anthony Hamilton)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/15_Dear_Mama_(Remix)_(feat._Anthony_Hamilton)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "Tupac",
+      "has_synced": true,
+      "path": "select/16_Dear_Mama_Tupac.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "commander dr - dear mama",
+      "artist": "ericdoa",
+      "has_synced": true,
+      "path": "select/17_commander_dr_-_dear_mama_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dear Mama (Live Remix)",
+      "artist": "2Pac",
+      "has_synced": false,
+      "path": "select/18_Dear_Mama_(Live_Remix)_2Pac.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/19_Dear_Mama_2Pac.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dear Mama",
+      "artist": "Red Eye",
+      "has_synced": false,
+      "path": "select/pl_01_Dear_Mama_Red_Eye.txt"
+    }
+  ]
+}
